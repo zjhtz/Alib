@@ -1,0 +1,6 @@
+framework module Pods_Alib_Tests {
+  umbrella header "Pods-Alib_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

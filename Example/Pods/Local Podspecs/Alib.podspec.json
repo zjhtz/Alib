@@ -1,0 +1,22 @@
+{
+  "name": "Alib",
+  "version": "0.1.0",
+  "summary": "A short description of Alib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/772379155@qq.com/Alib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "772379155@qq.com": "772379155@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/772379155@qq.com/Alib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Alib/Classes/**/*"
+}

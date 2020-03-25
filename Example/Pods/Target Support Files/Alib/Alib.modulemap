@@ -1,0 +1,6 @@
+framework module Alib {
+  umbrella header "Alib-umbrella.h"
+
+  export *
+  module * { export * }
+}
